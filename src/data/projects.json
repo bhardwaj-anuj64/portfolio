@@ -1,0 +1,28 @@
+{
+    "projects": [
+    {
+      "title": "MyLearning Place",
+      "description": "<p><ul><li> Led a team of 4 to create a full-stack web application in an agile environment, followed and applied HCI eight golden design rules.</li><li> Instituted API endpoints, administered and maintained database, ran Unit and Cypress tests to deliver high-quality code and assisted with set up of Docker containers for deployment into Kubernetes Pods. </li></ul><\/p>",
+      "link": "https://github.com/daanishgoyal/myLearningPlace",
+      "techStack": "ReactJS, GO, MySQL, HTML, CSS"
+    },
+    {
+      "title": "Twitter Simulator",
+      "description": "<p><ul><li> Constructed a distributed client/server identical to Twitter utilizing Akka framework in F#, harnessing power of Actor Modeling to achieve concurrency.  </li><li> Devised a JSON based API/website using WebSharper to implement the WebSocket interface. </li><li> Computed and enhanced performance by 35% through optimization and remodelling of actor model to simulate more than 100,000 users at once with load distributed across servers. </li></ul><\/p>",
+      "link": "https://github.com/daanishgoyal/Twitter-Clone",
+      "techStack": "F#, AKKA.net, WebSharper, JSON, HTML, CSS"
+    },
+    {
+        "title": "Maternal Health Risk Prediction",
+        "description": "<p><ul><li> Developed a Maternal Health Risk prediction model using various machine learning classifiers, and evaluated performance based on their accuracy, precision, recall, and F1 score.</li><li> Applied feature selection techniques such as Forward Selection, Information Gain, and Correlation Coefficient for assessing determinants of maternal health, achieving an accuracy of 87.49% </li></ul><\/p>",
+        "link": "https://github.com/daanishgoyal/Maternal-Health-Risk-Prediction",
+        "techStack": "Python, Numpy, Pandas, Scikit-learn"
+    },
+    {
+        "title": "Vancouver Crime Trend Analyzer",
+        "description": "<p><ul><li> Designed & developed web interfaces to project complex SQL trend queries, from a real-time large scale Oracle database (upwards of 250,000 tuples) focusing on retrieving new information from data set. </li><li>Interpreted and operated on real-life crime data provided by Vancouver city police department to discover numerous meaningful trends and further projected data-points by leveraging libraries like ChartJS. </li></ul><\/p>",
+        "link": "https://www.linkedin.com/in/daanishgoyal/details/projects/",
+        "techStack": "SQL, OracleDB, PHP, ChartJS"
+    }
+]
+}

@@ -1,0 +1,27 @@
+{
+  "firstName": "Daanish",
+  "middleName": " ",
+  "lastName": "Goyal",
+  "avatar": "\/images\/Daanish.png",
+  "titles": [
+    "Graduate Student",
+    "Software Developer"
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://www.linkedin.com/in/daanishgoyal",
+      "iconName": "faLinkedin",
+      "iconPrefix": "fab"
+    },
+    {
+      "link": "https://github.com/daanishgoyal",
+      "iconName": "faGithub",
+      "iconPrefix": "fab"
+    },
+    {
+      "link": "mailto:dg5052@gmail.com",
+      "iconName": "faEnvelope",
+      "iconPrefix": "fas"
+    }
+  ]
+}
