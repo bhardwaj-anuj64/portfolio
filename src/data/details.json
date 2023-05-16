@@ -1,7 +1,7 @@
 {
-  "firstName": "Daanish",
+  "firstName": "Anuj",
   "middleName": " ",
-  "lastName": "Goyal",
+  "lastName": "Bhardwaj",
   "avatar": "\/images\/Daanish.png",
   "titles": [
     "Graduate Student",
@@ -9,17 +9,17 @@
   ],
   "socialNetworks": [
     {
-      "link": "https://www.linkedin.com/in/daanishgoyal",
+      "link": "https://www.linkedin.com/in/anujbhardwaj1996/",
       "iconName": "faLinkedin",
       "iconPrefix": "fab"
     },
     {
-      "link": "https://github.com/daanishgoyal",
+      "link": "https://github.com//bhardwaj-anuj64",
       "iconName": "faGithub",
       "iconPrefix": "fab"
     },
     {
-      "link": "mailto:dg5052@gmail.com",
+      "link": "mailto:bhardwaj.anuj64@gmail.com",
       "iconName": "faEnvelope",
       "iconPrefix": "fas"
     }

@@ -1,15 +1,15 @@
 {
   "education": [
     {
-      "period": "2021 – December 2022 (Expected)",
+      "period": "2021 – May 2023",
       "school": "University of Florida",
       "degree": "Master of Computer Science",
-      "description": "GPA: 3.45/4"
+      "description": "GPA: 3.1/4"
     },
     {
-      "period": "2017 – 2021",
-      "school": "Manipal University Jaipur, India",
-      "degree": "Bachelor of Technology (Computer and Communication Engineering)",
+      "period": "2016 – 2020",
+      "school": "Regional Institue Of Management & Technology, Punjab India",
+      "degree": "Bachelor of Technology (Computer Science)",
       "description": ""
     }
   ],
@@ -29,8 +29,8 @@
   ],
   "publications": [
     {
-      "title": "Cost Aware BAT Algorithm for Task Scheduling in Cloud Computing",
-      "authors": "<strong>Daanish Goyal</strong>, Dr. Punit Gupta",
+      "title": "Deep Learning Nanodegree",
+      "authors": "<strong>Udacity</strong>, Dr. Punit Gupta",
       "description":"ICRIC2021, Innovation Patent by the Australian Government.",
       "doi": "http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2021102181"
     }

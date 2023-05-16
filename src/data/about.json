@@ -1,8 +1,8 @@
 {
-  "username": "Daanish Goyal",
+  "username": "Anuj Bhardwaj",
   "avatar": "../assets/images/avatar-primary-bg.svg",
-  "objective": "<p>I am a Graduate Student at University of Florida with experience in Web Development, App Development, AWS and HCI focused research.  My journey began when I came across ‘Jarvis’, an AI Voice assistant in the Marvel movie ‘Iron-Man’. I was completely enthralled by his creation and I aspired to create something similar for myself..<\/p>",
-  "objectiveNext": "<p>I am looking for full time opportunities starting Jan 2023 in the field of Software Development. I am creative, flexible and often find myself mastering new technologies relatively quickly.<\/p>",
+  "objective": "<p>I am a Graduate Student at University of Florida with experience in Web Development, App Development,and Machine Learning.<\/p>",
+  "objectiveNext": "<p>I am looking for full time opportunities starting May 2023 in the field of Software Development. I am creative, flexible and often find myself mastering new technologies relatively quickly. I am open to relocating and remote work as well.<\/p>",
   "resumeUrl": "#",
   "skills": [
     {
@@ -11,12 +11,12 @@
       "color": "rgb(255, 209, 92)"
     },
     {
-      "name": "AWS",
+      "name": "Machine Learnning",
       "confidence": 80,
       "color": "rgb(108, 108, 229)"
     },
     {
-      "name": "Research Methods",
+      "name": "Database Mangement and Administration",
       "confidence": 85,
       "color": "rgb(255, 76, 96)"
     },
@@ -28,14 +28,14 @@
   ],
   "statistics": [
     {
-      "number": 22,
+      "number": 11,
       "title": "Projects completed",
       "iconPrefix": "fas",
       "iconName": "tasks"
     },
     {
-      "number": 1,
-      "title": "Publications",
+      "number": 5,
+      "title": "Certifications",
       "iconPrefix": "far",
       "iconName": "newspaper"
     },
@@ -46,8 +46,8 @@
       "iconName": "award"
     },
     {
-      "number": 4287,
-      "title": "Ice Creams",
+      "number": 42876,
+      "title": "Coffee's",
       "iconPrefix": "fas",
       "iconName": "ice-cream"
     }
