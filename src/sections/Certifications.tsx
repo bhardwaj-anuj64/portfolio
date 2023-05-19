@@ -5,13 +5,13 @@ import { fas } from '@fortawesome/free-solid-svg-icons'
 import { Section, Timeline } from '../components'
 import history from '../data/history.json'
 
-const publications = history.publications
+const certifications = history.certifications
 
-export class Publications extends React.Component {
+export class Certifications extends React.Component {
   render() {
 
     return(
-      <Section id="publications" title="Publications">
+      <Section id="certifications" title="Certifications">
         <Row>
           <Col md={12}>
             <div className="timeline edu bg-white rounded shadow-dark padding-30 overflow-hidden">
@@ -33,4 +33,4 @@ export class Publications extends React.Component {
   }
 }
 
-export default Publications
+export default Certifications
