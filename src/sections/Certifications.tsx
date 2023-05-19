@@ -16,7 +16,7 @@ export class Certifications extends React.Component {
           <Col md={12}>
             <div className="timeline edu bg-white rounded shadow-dark padding-30 overflow-hidden">
 
-              { publications.map(p => (
+              { certifications.map(p => (
                 <Timeline key={p.doi} title={p.title} authors={p.authors} icon={['fas', 'newspaper']} left="-7px">
                   <h6 dangerouslySetInnerHTML={ { __html: p.authors } }/>
                   <div dangerouslySetInnerHTML={ { __html: p.description } } />
