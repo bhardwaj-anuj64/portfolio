@@ -3,18 +3,18 @@ import { Row, Col } from 'react-bootstrap'
 import { Section, Timeline } from '../components'
 import history from '../data/history.json'
 
-const career = history.career
+const role = history.role
 
-export class Experience extends React.Component {
+export class Involvements extends React.Component {
   render() {
 
     return(
-      <Section id="experience" title="Experience">
+      <Section id="involvements" title="Involvements">
         <Row>
           <Col md={12}>
             <div className="timeline edu bg-white rounded shadow-dark padding-30 overflow-hidden">
 
-              { career.map(c => (
+              { role.map(c => (
                 <Timeline key={c.company} time={c.period} title={c.title} icon={['fas', 'briefcase']} left="-7px">
                   <h6>{c.company}</h6>
                   <div dangerouslySetInnerHTML={ { __html: c.description } } />
@@ -30,4 +30,4 @@ export class Experience extends React.Component {
   }
 }
 
-export default Experience
+export default Involvements
