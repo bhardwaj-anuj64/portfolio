@@ -23,7 +23,7 @@ export class Home extends React.Component {
         </div>
         <Container>
           <div className="intro">
-            <img src={details.avatar} style={{width:"150px", height:"150px", borderRadius:"50%"}} alt="Daanish Goyal" className="mb-4" />
+            <img src={details.avatar} style={{width:"150px", height:"150px", borderRadius:"50%"}} alt="Anuj Bhardwaj" className="mb-4" />
 
             <h1 className="mb-2 mt-0">
               {details.firstName}
@@ -49,7 +49,7 @@ export class Home extends React.Component {
             </ul>
 
             <div className="mt-4">
-            <Button href='/resume/Daanish_Resume.pdf' variant="btn btn-kd" style={{margin:10}}>Resume <FontAwesomeIcon icon={fas["faDownload"]} /></Button>
+            <Button href='/resume/Anuj_Resume.pdf' variant="btn btn-kd" style={{margin:10}}>Resume <FontAwesomeIcon icon={fas["faDownload"]} /></Button>
               <Scroller href="#contact" className="btn btn-kd" style={{margin:10}}>Contact me</Scroller>
             </div>
           </div>
