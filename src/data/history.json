@@ -27,10 +27,10 @@
       "description": "<p><ul><li>Designed the User-Interface with SwiftUI and delivered RESTful API endpoints for an iOS Dictionary mobile application.</li><li>Tested and optimized performance by reducing 55% of load time and occasional lag through implementation of efficient code optimizations and profiling techniques.</li></ul><\/p>"
     }
   ],
-  "publications": [
+  "certifications": [
     {
       "title": "Deep Learning Nanodegree",
-      "authors": "<strong>Udacity</strong>, Dr. Punit Gupta",
+      "authors": "<strong>Udacity</strong>, Anuj Bhardwaj",
       "description":"ICRIC2021, Innovation Patent by the Australian Government.",
       "doi": "http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2021102181"
     }
