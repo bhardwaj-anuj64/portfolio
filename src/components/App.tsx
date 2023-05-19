@@ -6,7 +6,7 @@ import {
   About,
   Education,
   Experience,
-  Publications,
+  Certifications,
   Contact,
 } from "../sections";
 import {
@@ -36,7 +36,7 @@ function App() {
             <Projects />
             {/* </Col> */}
             {/* <Col md={6}> */}
-            <Publications />
+            <Certifications />
             {/* </Col> */}
           </Row>
         </Container>
