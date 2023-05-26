@@ -25,9 +25,15 @@
   "certifications": [
     {
       "title": "Deep Learning Nanodegree",
-      "authors": "<strong>Udacity</strong>, Anuj Bhardwaj",
-      "description":"Udacity, June 2019",
+      "authors": "<strong>Udacity</strong>, June 2019",
+      "description":"",
       "doi": "confirm.udacity.com/DR3FMRN4"
+    },
+    {
+      "title": "PCEP - Certified Entry-Level Python Programmer",
+      "authors": "<strong>Python Institute</strong>, March 2021",
+      "description":"",
+      "doi": "https://verify.openedg.org/?id=vNVK.XGG6.WKFu"
     }
   ]
 }
