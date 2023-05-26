@@ -2,50 +2,31 @@
     "projects": [
       {
         "title": "Twitter Simulator",
-        "description": "<p><ul>
-                              <li> Constructed a distributed client/server identical to Twitter utilizing Akka framework in F#, harnessing power of Actor Modeling to achieve concurrency.  </li>
-                              <li> Devised a JSON based API/website using WebSharper to implement the WebSocket interface. </li>
-                              <li> Computed and enhanced performance by 35% through optimization and remodelling of actor model to simulate more than 100,000 users at once with load distributed across servers. </li>
-                          </ul><\/p>",
+        "description": "<p><ul><li> Constructed a distributed client/server identical to Twitter utilizing Akka framework in F#, harnessing power of Actor Modeling to achieve concurrency.  </li><li> Devised a JSON based API/website using WebSharper to implement the WebSocket interface. </li><li> Computed and enhanced performance by 35% through optimization and remodelling of actor model to simulate more than 100,000 users at once with load distributed across servers. </li></ul><\/p>",
         "link": "https://github.com/daanishgoyal/Twitter-Clone",
         "techStack": "F#, AKKA.net, WebSharper, JSON, HTML, CSS"
       },
     {
       "title": "Chat Application",
-      "description": "<p><ul>
-                            <li>Developed an effective chat program with file transfer functionality using Python, computer networking principles, and a three-threaded system to facilitate seamless interaction and data exchange.</li>
-                            <li>Enabled real-time communication between multiple users and integrated file transfer capabilities within the chat program, allowing for seamless transmission of files in chunks of 1024 bytes.</li>
-                            <li>Applied socket programming and threading principles for reliable connections and concurrent execution of tasks, enhancing the program's overall efficiency and responsiveness. </li>
-                        </ul><\/p>",
+      "description": "<p><ul><li>Developed an effective chat program with file transfer functionality using Python, computer networking principles, and a three-threaded system to facilitate seamless interaction and data exchange.</li><li>Enabled real-time communication between multiple users and integrated file transfer capabilities within the chat program, allowing for seamless transmission of files in chunks of 1024 bytes.</li><li>Applied socket programming and threading principles for reliable connections and concurrent execution of tasks, enhancing the program's overall efficiency and responsiveness. </li></ul><\/p>",
       "link": "https://github.com/bhardwaj-anuj64/CN-Final-Project",
       "techStack": "Python, Socket Programming, Threading"
     },
     {
         "title": "Survival Prediction for liver cancer patients",
-        "description": "<p><ul>
-                              <li>Conducted a research study to predict survival rates for liver cancer patients using The Cancer Genome Atlas (TCGA) gene expression and clinical data.</li>
-                              <li>Utilized Kaplan-Meir survival analysis, Voom, and Glmfit methods to identify significant clinical features and differentially expressed genes in the study.</li>
-                              <li>Developed a predictive models to predict survival rates for liver cancer patients with the best F1 score of 0.85</li>
-                          </ul><\/p>",
+        "description": "<p><ul><li>Conducted a research study to predict survival rates for liver cancer patients using The Cancer Genome Atlas (TCGA) gene expression and clinical data.</li><li>Utilized Kaplan-Meir survival analysis, Voom, and Glmfit methods to identify significant clinical features and differentially expressed genes in the study.</li><li>Developed a predictive models to predict survival rates for liver cancer patients with the best F1 score of 0.85</li></ul><\/p>",
         "link": "https://github.com/bhardwaj-anuj64/Ml-Genomics-Project",
         "techStack": "R, Lima, Glmfit, Kaplan-Meir, Voom"
     },
     {
       "title": "Sentiment Analysis of Movie Reviews",            
-      "description": "<p><ul>
-                            <li>Implemented a neural network sentiment analyzer using recurrent neural network (RNN) architecture, preprocessing techniques such as bag of words and tokenization, and trained the model on a dataset of 50,000 movie reviews.</li>
-                            <li>Developed a web application to provide real-time sentiment analysis on user-input movie reviews, utilizing AWS services including SageMaker, Lambda, and API Gateway for efficient deployment and data communication.</li>
-                            <li>●	Achieved a model performance accuracy of 90% on a test set of 10,000 movie reviews, demonstrating the effectiveness of the model in analyzing movie review sentiment.</li>
-                        </ul><\/p>",
+      "description": "<p><ul><li>Implemented a neural network sentiment analyzer using recurrent neural network (RNN) architecture, preprocessing techniques such as bag of words and tokenization, and trained the model on a dataset of 50,000 movie reviews.</li><li>Developed a web application to provide real-time sentiment analysis on user-input movie reviews, utilizing AWS services including SageMaker, Lambda, and API Gateway for efficient deployment and data communication.</li><li>Achieved a model performance accuracy of 90% on a test set of 10,000 movie reviews, demonstrating the effectiveness of the model in analyzing movie review sentiment.</li></ul><\/p>",
       "link": "https://github.com/bhardwaj-anuj64/Deploying-Sentiment-Analysis",
       "techStack": "Python, Sagemaker, AWS Lambda, Jupiter Notebook"
   },
   {
     "title": "Dog Breed Classifier",
-    "description": "<p><ul>
-                          <li>Trained a Convolutional Neural Network (CNN) for image analysis to classify dog breeds and provide amusing results by identifying the closest resembling dog breed for human images.</li>
-                          <li>●	Utilized Python and the Keras deep learning library to develop the model, which was trained on a dataset of over 100,000 images covering 133 dog breeds, achieving an accuracy of 84% while also taking into account precision and recall.</li>
-                      </ul><\/p>",
+    "description": "<p><ul><li>Trained a Convolutional Neural Network (CNN) for image analysis to classify dog breeds and provide amusing results by identifying the closest resembling dog breed for human images.</li><li>Utilized Python and the Keras deep learning library to develop the model, which was trained on a dataset of over 100,000 images covering 133 dog breeds, achieving an accuracy of 84% while also taking into account precision and recall.</li></ul><\/p>",
     "link": "https://github.com/daanishgoyal/Maternal-Health-Risk-Prediction",
     "techStack": "Python, Numpy, Pandas, Opencv, Matplotlib, Tensorflow"
 }
