@@ -6,7 +6,7 @@
   "resumeUrl": "#",
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Python",
       "confidence": 90,
       "color": "rgb(255, 209, 92)"
     },
@@ -21,8 +21,8 @@
       "color": "rgb(255, 76, 96)"
     },
     {
-      "name": "Mobile Development",
-      "confidence": 70,
+      "name": "Java",
+      "confidence": 80,
       "color": "rgb(51, 105, 30)"
     }
   ],

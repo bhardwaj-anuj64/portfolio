@@ -4,7 +4,7 @@
       "period": "2021 – May 2023",
       "school": "University of Florida",
       "degree": "Master of Computer Science",
-      "description": "GPA: 3.1/4"
+      "description": "GPA: 3.06/4"
     },
     {
       "period": "2016 – 2020",
@@ -13,26 +13,23 @@
       "description": "GPA: 8.23/10"
     }
   ],
-  "role": [
+  "career": [
     {
-      "period": "June 2022 - August 2022",
-      "company": "Aitudier",
-      "title": "Software Developer Engineer Intern",
-      "description": "<p><ul><li> Collaborated in designing and implementing a Learning Management System and created RESTful APIs in Python using Flask for desired front-end integration.</li><li> Implemented an auto-scaling and flexible cloud system by deploying web app using EC2, VPC, RDS and configured IAM roles to control AWS users and groups. </li><li> Defined automation and engineered CI/CD pipeline from scratch to migrate application to DevOps standard.</li></ul><\/p>"
+      "period": "November 2028 - April 2020",
+      "company": "Incubation Center, RIMT University",
+      "title": "Student Coordinator",
+      "description": "<p><ul><li>Headed a project utilizing drones for automation of monitoring and data gathering processes pertinent to pollution control, while serving as the student coordinator from 2019-2020.</li>
+      <li>Ensured smooth progress of student projects such as Plant disease AI, Encrypted communication program with a custom hardware key, and Custom POS for students, dealt with problem-solving, and facilitated issue resolution, impacting 8 projects. </li>
+      <li>Led a project focusing on the use of drones for automating monitoring and data collection processes related to pollution control, including defining project objectives, goals, and constraints based on research and use case analysis.</li></ul><\/p>"
     },
-    {
-      "period": "May 2019 - July 2019",
-      "company": "Neo Sypher Systems Pvt. Ltd",
-      "title": "iOS Software Developer Intern",
-      "description": "<p><ul><li>Designed the User-Interface with SwiftUI and delivered RESTful API endpoints for an iOS Dictionary mobile application.</li><li>Tested and optimized performance by reducing 55% of load time and occasional lag through implementation of efficient code optimizations and profiling techniques.</li></ul><\/p>"
-    }
+    
   ],
   "certifications": [
     {
       "title": "Deep Learning Nanodegree",
       "authors": "<strong>Udacity</strong>, Anuj Bhardwaj",
-      "description":"ICRIC2021, Innovation Patent by the Australian Government.",
-      "doi": "http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2021102181"
+      "description":"Udacity, June 2019",
+      "doi": "confirm.udacity.com/DR3FMRN4"
     }
   ]
 }

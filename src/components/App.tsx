@@ -5,7 +5,7 @@ import {
   Footer,
   About,
   Education,
-  Involvements,
+  Experience,
   Certifications,
   Contact,
 } from "../sections";
@@ -30,7 +30,7 @@ function App() {
             <Education />
             {/* </Col> */}
             {/* <Col md={6}> */}
-            <Involvements />
+            <Experience />
             {/* </Col> */}
             {/* <Col md={6}> */}
             <Projects />
