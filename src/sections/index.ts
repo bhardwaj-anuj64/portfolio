@@ -1,6 +1,6 @@
 export { About } from './About'
 export { Education } from './Education'
-export { Experience } from './Experience'
+export { Experience } from './experience'
 export { Projects } from    './Projects'
 export { Certifications } from './Certifications'
 export { Footer } from './Footer'
