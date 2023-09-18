@@ -4,16 +4,28 @@
       "period": "2021 – May 2023",
       "school": "University of Florida",
       "degree": "Master of Computer Science",
-      "description": "GPA: 3.06/4"
+      "description": "Courses: ML, Applied ML, Mathematics for Intelligent Systems, Deep learning for Computer graphics"
     },
     {
       "period": "2016 – 2020",
       "school": "Regional Institue Of Management & Technology, Punjab India",
       "degree": "Bachelor of Technology (Computer Science)",
-      "description": "GPA: 8.23/10"
+      "description": "Courses: AI, Object Oriented programming, Data structures, Design and Analysis of Algorithms, DBMS"
     }
   ],
   "career": [
+    {
+      "period": "August 2023",
+      "company": "Lumen Data, San Fransisco, CA",
+      "title": "Data Scientist (Intern)",
+      "description": "<p><ul><li>Helped the company to understand data sciences and the related tools available, demonstrating your knowledge and ability to communicate complex technical concepts to non-technical audiences.</li><li>Successfully developed a demo project using hugging face libraries and Gradio as a proof of concept, demonstrating the viability of using LLMs to solve real-world problems.</li><li>Developed strong skills in Snowpark, Streamlit libraries, the Data Bricks tool set, and hugging face libraries for LLM development and fine-tuning.</li></ul><\/p>"
+    }
+    {
+      "period": "February 2020 - June 2020",
+      "company": "S.K.Meditech, India",
+      "title": "Intern",
+      "description": "<p><ul><liDeveloped and constructed a UV-C light-based sterilization system that reduced sterilization time by 65%, increased patient care capacity by 200% during the COVID-19 pandemic and maintained effectiveness against viral shifts and bacterial evolution.</li><li>Designed and implemented a custom ESP32-based PCB and firmware to control a UV-C light sterilization system, including timers, human presence detection, and manual/interrupt controls via a MIT App Inventor app.</li></ul><\/p>"
+    }
     {
       "period": "November 2018 - April 2020",
       "company": "Incubation Center, RIMT University",
