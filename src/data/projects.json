@@ -2,7 +2,7 @@
     "projects": [
       {
         "title": "Fake News Classifier",
-        "description": "<p><ul><li> https://github.com/bhardwaj-anuj64/Twitter-Simulator</li><li>The system uses a semantic analysis of the input article to identify features that are common in fake news articles, such as exaggerated language, logical fallacies, and inconsistent information.</li><li>The web app is deployed using Gradio, which is a popular open-source platform for building and sharing machine learning demos.</li></ul><\/p>",
+        "description": "<p><ul><li>Developed a fake news detection system using a BERT-based LLM that achieves an accuracy of 95% on a validation dataset of 10,000 news articles.</li><li>The system uses a semantic analysis of the input article to identify features that are common in fake news articles, such as exaggerated language, logical fallacies, and inconsistent information.</li><li>The web app is deployed using Gradio, which is a popular open-source platform for building and sharing machine learning demos.</li></ul><\/p>",
         "link": "https://github.com/bhardwaj-anuj64/Fake-news-Classifier",
         "techStack": "Hugging Face, Gradio, Scikit Learn, LLM"
       },
