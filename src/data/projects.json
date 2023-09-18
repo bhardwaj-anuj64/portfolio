@@ -1,10 +1,16 @@
 {
     "projects": [
       {
+        "title": "Fake News Classifier",
+        "description": "<p><ul><li> https://github.com/bhardwaj-anuj64/Twitter-Simulator</li><li>The system uses a semantic analysis of the input article to identify features that are common in fake news articles, such as exaggerated language, logical fallacies, and inconsistent information.</li><li>The web app is deployed using Gradio, which is a popular open-source platform for building and sharing machine learning demos.</li></ul><\/p>",
+        "link": "https://github.com/bhardwaj-anuj64/Fake-news-Classifier",
+        "techStack": "Hugging Face, Gradio, Scikit Learn, LLM"
+      },
+        {
         "title": "Twitter Simulator",
         "description": "<p><ul><li> Constructed a distributed client/server identical to Twitter utilizing Akka framework in F#, harnessing power of Actor Modeling to achieve concurrency.  </li><li> Devised a JSON based API/website using WebSharper to implement the WebSocket interface. </li><li> Computed and enhanced performance by 35% through optimization and remodelling of actor model to simulate more than 100,000 users at once with load distributed across servers. </li></ul><\/p>",
-        "link": "https://github.com/daanishgoyal/Twitter-Clone",
-        "techStack": "F#, AKKA.net, WebSharper, JSON, HTML, CSS"
+        "link": "https://github.com/bhardwaj-anuj64/Twitter-Simulator",
+        "techStack": "Erlang, JSON, HTML, CSS"
       },
     {
       "title": "Chat Application",
