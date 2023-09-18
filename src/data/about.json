@@ -1,7 +1,7 @@
 {
   "username": "Anuj Bhardwaj",
   "avatar": "../assets/images/avatar-primary-bg.svg",
-  "objective": "<p>I am a Graduate Student at University of Florida with experience in Software Development, Machine Learning,and much more.<\/p>",
+  "objective": "<p>I am a Graduate of the University of Florida with experience in Software Development, Machine Learning, Artificial Intelligence, Large language Models and much more.<\/p>",
   "objectiveNext": "<p>I am looking for full time opportunities starting May 2023 in the field of Software Development. I am creative, flexible and often find myself mastering new technologies relatively quickly. I am open to relocating and remote work as well.<\/p>",
   "resumeUrl": "#",
   "skills": [
@@ -16,12 +16,12 @@
       "color": "rgb(108, 108, 229)"
     },
     {
-      "name": "Database Mangement and Administration",
+      "name": "Deep Learning",
       "confidence": 85,
       "color": "rgb(255, 76, 96)"
     },
     {
-      "name": "Java",
+      "name": "SQL",
       "confidence": 80,
       "color": "rgb(51, 105, 30)"
     }
